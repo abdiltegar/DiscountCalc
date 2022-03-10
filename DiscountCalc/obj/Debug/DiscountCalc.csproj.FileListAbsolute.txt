@@ -1,0 +1,8 @@
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\bin\Debug\DiscountCalc.exe.config
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\bin\Debug\DiscountCalc.exe
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\bin\Debug\DiscountCalc.pdb
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\obj\Debug\DiscountCalc.csproj.AssemblyReference.cache
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\obj\Debug\DiscountCalc.csproj.SuggestedBindingRedirects.cache
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\obj\Debug\DiscountCalc.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\obj\Debug\DiscountCalc.exe
+I:\Kuliah\Semester 6\Software Testing and Quality Assurance\2022 - 03 - 10\DiscountCalc\DiscountCalc\obj\Debug\DiscountCalc.pdb
